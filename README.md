@@ -1,3 +1,3 @@
-# Addon Name
+# OPie
 
-This is the repository for <Addon Name>. Modified for Ascension.gg. 
+This is the repository for OPie. Modified for Ascension.gg. 
